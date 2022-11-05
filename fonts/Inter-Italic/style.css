@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Italic'), local('Inter-Italic'),
+        url('Inter-Italic.woff2') format('woff2'),
+        url('Inter-Italic.woff') format('woff'),
+        url('Inter-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+  }
